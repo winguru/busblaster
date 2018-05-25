@@ -4,6 +4,12 @@ busblaster
 KT-Link compatible buffer for the Bus Blaster v3.
 Does not support SWO/SWV. Includes control of LED light.
 
+Instructions
+============
+(Adopted from http://bgamari.github.io/posts/2014-08-23-swd-with-busblaster-and-openocd.html)
+
+Download the Xlinx ISE for the xst executable (see https://embeddedmicro.com/pages/installing-ise)
+
 ## License
 
 Copyright 2013 Ben Harris
